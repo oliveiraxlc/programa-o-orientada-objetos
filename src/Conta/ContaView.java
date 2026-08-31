@@ -62,7 +62,7 @@ public class ContaView {
             conta.getClass().getSimpleName(),
             conta.getTitular(),
             conta.getSaldo(),
-            conta.getTitular());
+            conta.getStatus());
     };
 
     }
